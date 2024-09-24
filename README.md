@@ -1,5 +1,5 @@
 - 👋 Hi, I’m bhushan pardeshi
-- 👀 I’m interested in Frontend developer positions
+- 👀 I’m interested in Full stack developer positions
 - 🌱 I’m currently learning AI,WEB3
 - 📫 How to reach me- bhushanpardeshi549@gmail.com
 - 😄 Pronouns: He/Him
