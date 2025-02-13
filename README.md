@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AI ,Web3**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-iota-sooty-37.vercel.app/](https://portfolio-iota-sooty-37.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-iota-sooty-37.vercel.app/](https://portfolio-bhushanpardeshi.vercel.app/)
 
 - 📫 How to reach me **bhushanpardeshi549@gmail.com**
 
