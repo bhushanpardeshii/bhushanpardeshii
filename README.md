@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **bhushanpardeshi549@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/13sKaYxJh0z81t-sNC3vYtrTXP_xCmCA-/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1MA7vN-4MTPBLoHCekjbBEQ5ZfBolZ-OA/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
