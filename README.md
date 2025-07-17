@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhushanpardeshii&label=Profile%20views&color=0e75b6&style=flat" alt="bhushanpardeshii" /> </p>
 
-- 🔭 I’m currently working on [AI Agents](https://tweetsage.vercel.app/)
 
 - 🌱 I’m currently learning **AI ,Web3**
 
